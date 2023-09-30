@@ -1,4 +1,5 @@
 #inlude <studio.h>
 void main () {
-printf("hello");
-}
+  printf("hello");
+  printf9("world");
+  }
